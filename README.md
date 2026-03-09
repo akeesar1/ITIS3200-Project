@@ -7,6 +7,19 @@ To-do:
 3. IP-based Send/Receive Messaging
 4. Main Method
 5. Simulation
+6. Build the app into an executable file (.exe)
+
+Note: For 6, input the following lines in the Command Line Interface, replacing main.py with the main python file name:
+
+```CLI
+python main.py
+pip install pyinstaller
+pyinstaller --onefile main.py
+```
+
+This will create a *dist* folder containing *main.exe* which is an executable file.
+
+
 
 Roles:
 
