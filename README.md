@@ -31,6 +31,6 @@ Progress (Update before 3/13/26 Meeting):
 
 - James: About 40% Complete with IP Messaging scripts. 0% Complete for Main python file.
 
-- Abhinav: About 60% Done with Generating public, shared and key.
+- Abhinav: 100% Done with text encryption.
 
 - Gabe: _
