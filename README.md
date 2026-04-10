@@ -23,7 +23,7 @@ Roles:
 
 - James: 3, 4
 
-- Abhinav: 1
+- Abhinav: 1, 5
 
 - Gabe: 2
 
@@ -31,6 +31,6 @@ Progress (Update before 3/13/26 Meeting):
 
 - James: About 40% Complete with IP Messaging scripts. 0% Complete for Main python file.
 
-- Abhinav: 100% Done with text encryption.
+- Abhinav: 100% Done with text encryption and simulation.
 
 - Gabe: _
